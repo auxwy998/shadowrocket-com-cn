@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+	<meta name="msvalidate.01" content="C18E4405FFF550ED512988DA4FD9D007" />
+    <!-- 标题 / 关键词 / 描述 (精准适配Bing) -->
+    <title>Shadowrocket小火箭 - 2026智能代理工具·多节点适配·隐私保护</title>
+    <meta name="keywords" content="Shadowrocket,Shadowrocket小火箭,shadowrocket智能代理,小火箭多节点切换,2026小火箭更新版,shadowrocket隐私保护,小火箭官方教程">
+    <meta name="description" content="Shadowrocket（小火箭）是一款智能代理工具，核心亮点的多节点适配的智能切换，自动匹配最优线路，保障高速稳定上网。内置高强度加密传输技术，全程守护用户上网隐私，杜绝信息泄露。操作简易、适配多网络环境，支持最新系统版本，附带基础使用指引。">
+    <link rel="canonical" href="https://shadowrocket.com.cn/">
+	<link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="preload" href="css/index.css" as="style">
+    <link rel="stylesheet" href="css/index.css">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "SoftwareApplication",
+      "name": "Shadowrocket 小火箭",
+      "description": "Shadowrocket（小火箭）是一款智能代理工具，核心亮点的多节点适配的智能切换，自动匹配最优线路，保障高速稳定上网。内置高强度加密传输技术，全程守护用户上网隐私，杜绝信息泄露。操作简易、适配多网络环境，支持最新系统版本，附带基础使用指引。",
+      "operatingSystem": "iOS, iPadOS",
+      "applicationCategory": "UtilityApplication",
+      "offers": {
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock"
+      },
+      "dateModified": "2026-04-21",
+      "version": "3.9.2",
+      "keywords": "Shadowrocket,Shadowrocket小火箭,shadowrocket智能代理,小火箭多节点切换,2026小火箭更新版,shadowrocket隐私保护,小火箭官方教程"
+    }
+    </script>
+	<!-- Google tag (gtag.js) -->
+
+
+<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+<script>LA.init({id:"3QMkbkOfCPDd9GXX",ck:"3QMkbkOfCPDd9GXX"})</script>
+<link rel="canonical" href="https://shadowrocket.com.cn/">
+</head>
+<body>
+    <div class="wrapper">
+        <!-- 导航栏: 首页+下载+教程+FAQ+订阅说明 (链接已统一) -->
+        <nav class="nav-bar">
+            <div class="logo-area">
+                🚀 Shadowrocket <span>小火箭·2026</span>
+            </div>
+            <div class="nav-links">
+                <a href="/" class="active">首页</a>
+                <a href="/download-shadowrocket.html">下载</a>
+                <a href="/shadowrocket-tutorial.html">教程</a>
+                <a href="/shadowrocket-faq.html">FAQ</a>
+                <a href="/shadowrocket-subscription.html">订阅说明</a>
+            </div>
+            <a href="/download-shadowrocket.html" class="nav-download-btn">⬇️ 下载小火箭</a>
+        </nav>
+
+        <!-- 顶部极简介绍 -->
+        <div class="hero">
+            <h1>Shadowrocket · 智能代理<br>多节点适配 · 隐私即未来</h1>
+            <div class="sub-definition">
+                为 iPhone / iPad 打造的 2026 网络工具 —— 智能匹配、军用级加密，一键连通全球。
+            </div>
+        </div>
+
+        <!-- 三大入口卡片 -->
+        <div class="card-grid">
+            <div class="entry-card">
+                <div class="card-icon">📥</div>
+                <h3>下载 Shadowrocket</h3>
+                <div class="card-desc">获取 2026 最新稳定版 · 支持 iOS 16+ / iPadOS · 纯净安装，无冗余</div>
+                <a href="/download-shadowrocket.html" class="card-btn download download-windows">立即下载 →</a>
+            </div>
+            <div class="entry-card">
+                <div class="card-icon">📘</div>
+                <h3>新手配置教程</h3>
+                <div class="card-desc">图文+视频 · 导入订阅、节点选择、策略优化，3分钟上手</div>
+                <a href="/shadowrocket-tutorial.html" class="card-btn">查看官方教程 →</a>
+            </div>
+            <div class="entry-card">
+                <div class="card-icon">❓</div>
+                <h3>常见问题</h3>
+                <div class="card-desc">连接失败？订阅更新？智能节点切换？快速定位解决方案</div>
+                <a href="/shadowrocket-faq.html" class="card-btn">进入FAQ →</a>
+            </div>
+        </div>
+
+        <!-- 使用流程图 -->
+        <div class="flow-section">
+            <div class="section-label">
+                <h2>⚡ 四步连通世界</h2>
+                <span class="badge-new">2026 流程优化</span>
+            </div>
+            <div class="flow-steps">
+                <div class="step-item"><span class="step-num">1</span><span class="step-text">下载</span></div>
+                <span class="step-arrow">→</span>
+                <div class="step-item"><span class="step-num">2</span><span class="step-text">安装</span></div>
+                <span class="step-arrow">→</span>
+                <div class="step-item"><span class="step-num">3</span><span class="step-text">导入订阅</span></div>
+                <span class="step-arrow">→</span>
+                <div class="step-item"><span class="step-num">✓</span><span class="step-text">连接成功</span></div>
+            </div>
+            <p style="margin-top:16px;color:#52719e;font-size:0.95rem;padding-left:12px;">
+            📌 支持扫码/链接/clash订阅，智能延迟测速，自动切换最优节点。
+            </p>
+        </div>
+
+        <!-- 最新更新模块 -->
+        <div class="update-module">
+            <div class="update-left">
+                <h3>
+                    🆕 最近更新 · 2026.04.21
+                    <span class="version-tag">v3.9.2 (Build 2604)</span>
+                </h3>
+                <div class="update-desc">
+                    ✅ 智能节点匹配引擎升级 · 多节点切换延迟降低32%<br>
+                    ✅ 深度适配 Bing 搜索 / 流媒体 · 隐私保护增强 (TLS 1.3 混淆)<br>
+                    ✅ 订阅说明页更新 · 新增“一键导入”模板
+                </div>
+            </div>
+            <div class="update-right">
+                🚀 定期节点优化 · 低重复率策略
+            </div>
+        </div>
+
+        <!-- FAQ入口 -->
+        <div class="faq-entry">
+            <div class="faq-entry-left">
+                <span class="faq-icon">❓🔍</span>
+                <div class="faq-text">
+                    <h4>常见问题解答 · FAQ</h4>
+                    <p>连接、订阅、规则、隐私 —— 官方整理，快速自查。不展开冗长内容，点击直达。</p>
+                </div>
+            </div>
+            <a href="/shadowrocket-faq.html" class="faq-arrow-btn">浏览 FAQ 中心 →</a>
+        </div>
+
+        <!-- 信任标识区 -->
+        <div style="display:flex;gap:24px;flex-wrap:wrap;margin:20px 0 10px;font-size:0.9rem;color:#3a5c7c;border-top:1px dashed #cdd9eb;padding-top:28px;">
+            <span>🔐 隐私保护：端到端加密 · 无日志</span>
+            <span>🌐 智能代理：shadowrocket 规则引擎</span>
+            <span>🔄 小火箭多节点切换 · 零感知</span>
+            <span>📱 2026 更新版 · 支持最新系统</span>
+        </div>
+
+        <!-- 平台号召区域 -->
+        <div class="platform-cta">
+            <div class="cta-grid">
+                <div class="cta-content">
+                    <span class="cta-badge">✨ 2026 社区驱动</span>
+                    <h3>即刻加入 · 全球智能网络</h3>
+                    <p class="cta-desc">数千节点 · 零门槛配置 · 隐私优先。小火箭与你共同维护开放互联。</p>
+                    <div class="cta-actions">
+                        <a href="/download-shadowrocket.html" class="cta-btn primary">⬇️ 下载 Shadowrocket</a>
+                        <a href="/shadowrocket-subscription.html" class="cta-btn secondary">📡 查看订阅说明 →</a>
+                    </div>
+                    <div class="cta-meta">
+                        <span>🔒 军用级加密</span>
+                        <span>⚡ 智能节点切换</span>
+                        <span>📱 支持 iOS 18+</span>
+                    </div>
+                </div>
+                <div class="cta-visual">
+                    <div class="visual-rocket">🚀</div>
+                    <div class="visual-dots"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- footer 链接已与导航栏一致 -->
+        <div class="footer">
+            <div>© 2026 Shadowrocket · 小火箭 | 智能工具 · 实用安全高效</div>
+            <div>
+                <a href="/" style="color:#1e5fd9;text-decoration:none;margin:0 8px;">首页</a>
+                <a href="/download-shadowrocket.html" style="color:#1e5fd9;text-decoration:none;margin:0 8px;">下载</a>
+                <a href="/shadowrocket-tutorial.html" style="color:#1e5fd9;text-decoration:none;margin:0 8px;">教程</a>
+                <a href="/shadowrocket-faq.html" style="color:#1e5fd9;text-decoration:none;margin:0 8px;">FAQ</a>
+                <a href="/shadowrocket-subscription.html" style="color:#1e5fd9;text-decoration:none;margin:0 8px;">订阅说明</a>
+				<a href="sitemap.xml" style="color:#1e5fd9;text-decoration:none;margin:0 8px;">网站地图</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- 固定下载按钮 -->
+    <a href="/download-shadowrocket.html" class="fixed-download" title="返回下载 Shadowrocket">⬇️</a>
+<script>
+	const downClass = document.querySelectorAll('.download-windows')
+	downClass.forEach(item => {
+		item.addEventListener('click', (e) => {
+			e.preventDefault();
+			const a = document.createElement("a");
+			a.href = "https://iccoauvvv.oss-cn-hongkong.aliyuncs.com/shadowrocket_1.6.5win.zip"; // 文件地址
+			a.download = "shadowrocket_1.6.5win.zip"; // 下载后的文件名
+			document.body.appendChild(a);
+			a.click();
+			document.body.removeChild(a);
+		});
+	})
+</script>
+
+</body>
+</html>
